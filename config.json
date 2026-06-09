@@ -65,6 +65,13 @@
       "description": "Learn to build scalable REST APIs using FastAPI framework. Create endpoints, handle HTTP requests, validate data, and deploy a working API.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-06-16"
+    },
+    {
+      "id": "web-dashboards",
+      "title": "Building Interactive Web Dashboards",
+      "description": "Build a web-based dashboard that visualizes and presents data interactively. Combine Python backend skills with frontend visualization to create a dynamic interface that brings data to life.",
+      "path": "assignments/web-dashboards",
+      "dueDate": "2026-06-16"
     }
   ]
 }
