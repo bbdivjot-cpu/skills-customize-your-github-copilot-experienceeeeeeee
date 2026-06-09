@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build scalable REST APIs using FastAPI framework. Create endpoints, handle HTTP requests, validate data, and deploy a working API.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-06-16"
     }
   ]
 }
